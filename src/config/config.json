@@ -1,0 +1,11 @@
+{
+    "token": "TOKEN_DO_BOT",
+    "defaultPrefix": "PREFIX_DO_BOT",
+    "youtubeAPI": "KEY_DA_API_DO_YOUTUBE",
+    "owners": [
+        "SEU_ID"
+    ],
+    "configGeral": {
+        "guildId": "ID_DA_GUILDA"
+    }
+}
